@@ -1,7 +1,10 @@
 // import './App.css'
 // import Gallery from "./Gallery";
-import RecipeList from "./Recipe";
+// import RecipeList from "./Recipe";
+// import Page from "./Page";
+// import Sculpture from "./Sculptures";
 // import Scientists from "./Scientist";
+import DateCounter from "./DateCounter";
 
 // const content = (
 //   <div>
@@ -20,7 +23,10 @@ function App() {
     // </div>
     // <Gallery />
     // <Scientists />
-    <RecipeList/>
+    // <RecipeList/>
+    // <Sculpture />
+    // <Page />
+    <DateCounter />
   );
   // or -->  return content;
 }
